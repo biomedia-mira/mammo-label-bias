@@ -14,7 +14,7 @@ This repository contains code associated with the paper:
 
 * <b>`/analysis`</b> contains notebooks for evaluating subgroup separability (`model_evaluation_separability.ipynb`), evaluating breast density classification performance (`model_evaluation_clean.ipynb` and `model_evaluation_labelbias.ipynb`), and performing feature inspection along the first principal component from the penultimate layer of the trained models (`model_inspection.ipynb`). 
 
-The environment.yml file allows for installation of all dependencies in a conda environment.
+The `environment.yml` file allows for installation of all dependencies in a conda environment.
 
 ## Data 
 Data used in this work comes from the [EMory BrEast imaging Dataset (EMBED)](https://pubs.rsna.org/doi/full/10.1148/ryai.220047). Data requests and documentation can be accessed here: [github.com/Emory-HITI/EMBED_Open_Data/](https://github.com/Emory-HITI/EMBED_Open_Data/tree/main). 
