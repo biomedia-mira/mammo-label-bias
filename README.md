@@ -7,6 +7,8 @@
 This repository contains code associated with the paper:
 > E. A. M. Stanley, R. Mehta, M. Roschewitz, N. D. Forkert, B. Glocker. <i>Exploring the interplay of label bias with subgroup size and separability: A case study in mammographic density classification</i>. MICCAI Fairness of AI in Medical Imaging Workshop, 2025.
 
+[[Read on ArXiv]](https://arxiv.org/abs/2507.17996)
+
 ## Overview
 * <b>`/data_preproc`</b> contains notebooks for filtering the metadata associated with the images, and applying label bias (as described in sections 2.1 and 2.2 of the paper).
 
